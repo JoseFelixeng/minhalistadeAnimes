@@ -1,20 +1,20 @@
 # Lista de Animes
 
-| List | Name                                                                                                                               | Note  | Categoria      | Genero                |
-| ----:|:---------------------------------------------------------------------------------------------------------------------------------- |:----- |:-------------- |:--------------------- |
-| 1    | Dragon ball z                                                                                                                      | 9.0 ⭐ | Anime          | Shounen               |
-| 2    | Naruto                                                                                                                             | 9.2 ⭐ | Anime          | Shounen               |
-| 3    | Avatar                                                                                                                             | 8.0 ⭐ | Desenho        | Aventura/Fantasia     |
-| 4    | Yu-gi-oh                                                                                                                           | 8.1 ⭐ | Anime          | Aventura/Fantasia     |
-| 5    | Zatch bell                                                                                                                         | 7.9 ⭐ | Anime          | Aventura/Fantasia     |
-| 6    | Akami ga kill                                                                                                                      | 8.5 ⭐ | Anime          | Shounen               |
-| 7    | Nanatsu no Taizai                                                                                                                  | 7.5 ⭐ | Anime          | Shounen               |
-| 8    | Fullmetal Alchemist                                                                                                                | 9.5 ⭐ | Anime          | Shounen               |
-| 9    | Shokugeki no Souma                                                                                                                 | 8.0 ⭐ | Anime          | Shounen               |
-| 10   | Sword Art Online                                                                                                                   | 8.2 ⭐ | Anime          | Aventura/Fantasia     |
-| 11   | Bleach                                                                                                                             | 8.0 ⭐ | Anime          | Shounen               |
-| 12   | Code Geass                                                                                                                         | 9.3 ⭐ | Anime          | Sci-fi/Action         |
-| 13   | Overlord                                                                                                                           | 7.8 ⭐ | Anime          | Isekai                |
+| List | Name                                                                                                                               | Note  | Categoria      | Genero |
+| ----:|:------------- ------------------ |:----- |:-------------- |:--------------------- |
+| 1    | Dragon ball z                                                                                                                      | 9.0 ⭐ | Anime          | Shounen |
+| 2    | Naruto                                                                                                                             | 9.2 ⭐ | Anime          | Shounen |
+| 3    | Avatar                                                                                                                             | 8.0 ⭐ | Desenho        | Aventura/fantasia |
+| 4    | Yu-gi-oh                                                                                                                           | 8.1 ⭐ | Anime          | Aventura/Fantasia |
+| 5    | Zatch bell                                                                                                                         | 7.9 ⭐ | Anime          | Aventura/Fantasia |
+| 6    | Akami ga kill                                                                                                                      | 8.5 ⭐ | Anime          | Shounen | 
+| 7    | Nanatsu no Taizai                                                                                                                  | 7.5 ⭐ | Anime          | Shounen |
+| 8    | Fullmetal Alchemist                                                                                                                | 9.5 ⭐ | Anime          | Shounen |
+| 9    | Shokugeki no Souma                                                                                                                 | 8.0 ⭐ | Anime          | Shounen |
+| 10   | Sword Art Online                                                                                                                   | 8.2 ⭐ | Anime          | Aventura/Fantasia |
+| 11   | Bleach                                                                                                                             | 8.0 ⭐ | Anime          | Shounen |
+| 12   | Code Geass                                                                                                                         | 9.3 ⭐ | Anime          | Sci-fi/ Action |
+| 13   | Overlord                                                                                                                           | 7.8 ⭐ | Anime          | Isekai |
 | 14   | Ao no Exorcist                                                                                                                     | 7.2 ⭐ | Anime          | Mitologia/Escolar     |
 | 15   | No Game No Life                                                                                                                    | 9.0 ⭐ | Anime          | Isekai                |
 | 16   | Pokemon                                                                                                                            | 8.4 ⭐ | Anime          | Aventura/Fantasia     |
@@ -205,5 +205,11 @@
 | 204  | Ranma 1/2                                                                                                                          | 8.0 ⭐ | Anime          | Comédia/Romântica     |
 | 205  | Lazarus                                                                                                                            | 7.0 ⭐ | Anime          | Mistério              |
 | 206  | Guimi Zhi Zhu: Xiaochou Pian (Lord of Mistery)                                                                                     | 8.0 ⭐ | Anime          | Mistério              |
-| 207  | Gachiakuta                                                                                                                         | 8     | Anime          | sobrenatural          |
-| 208  | Mizu Zokusei no Mahoutsukai  (The Water Magician)                                                                                  | 8     | Anime          | Aventura              |
+| 207  | Gachiakuta                                                                                                                         | 8.5 ⭐ | Anime          | sobrenatural          |
+| 208  | Mizu Zokusei no Mahoutsukai  (The Water Magician)                                                                                  | 7.0 ⭐ | Anime | Aventura |
+| 209 |  Toujima Tanzaburou wa Kamen Rider ni Naritai                                                                                       | 7.4 ⭐ | Anime | Shounem |
+| 210 | Let's Play: Quest-darake  no my life                                                                                                | 6.4 ⭐ | Anime | Romance |
+| 211 | Sozai Saishuka no Isekai Ryokouki                                                                                                   | 6.0 ⭐ | Anime | Isekai |
+
+
+ 
